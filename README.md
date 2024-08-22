@@ -11,7 +11,6 @@ Make sure you have Node.js and npm installed on your machine.
 ### 1. Install Necessary Packages
 Run the following command to install the required packages:
 
-```bash
 npm install dotenv nodemon bcrypt express mongoose 
 dotenv: This package loads environment variables from a .env file into process.env. It allows you to separate secrets like database connection strings, API keys, and other sensitive data from your codebase.
 
@@ -46,22 +45,25 @@ Start the React application:
 npm start
 Your application should now be running with the React frontend and Node.js backend connected.
 
-![image](https://github.com/user-attachments/assets/9792c0c8-38cf-4ce6-a6e3-801fbebfe877)
+
+![image](https://github.com/user-attachments/assets/fe7c7696-ece5-4d5d-a10a-99ce9b2bb143)
+
 
 **Sign Up Page**
 
 
-![image](https://github.com/user-attachments/assets/6cca9257-f1fe-48af-a6c3-f11438aaa33a)
+![image](https://github.com/user-attachments/assets/bacd595f-529a-413f-a01b-a4a81658b9c3)
 
-### Sign In Page
 
-![image](https://github.com/user-attachments/assets/408a16cd-e193-4d1f-8c3c-9f44f6d030ad)
+**Sign In Page**
+
+
 
 **User Profile Page**
 
-![image](https://github.com/user-attachments/assets/802bf941-09df-4577-8a04-33fdaf7f85ed)
 
 **User details gets stored in MongoDB Collections.**
+
 
 
 
