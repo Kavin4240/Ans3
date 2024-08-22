@@ -57,9 +57,12 @@ Your application should now be running with the React frontend and Node.js backe
 
 **Sign In Page**
 
+![image](https://github.com/user-attachments/assets/c87dd346-5aa6-4a36-be99-fd266b340b9e)
 
 
 **User Profile Page**
+
+![image](https://github.com/user-attachments/assets/e87a9043-1f20-418b-ab13-2dfaf3b5f42f)
 
 
 **User details gets stored in MongoDB Collections.**
